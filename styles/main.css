@@ -469,6 +469,13 @@ input {
 
 
     }
+    .contact__main-down {
+        width: 400px;
+        height: 51px;
+        padding-bottom: 10px;
+    
+    }
+  
    .foot_item1 , .foot_item2{
     display: none;
    }
@@ -479,7 +486,7 @@ input {
         display: flex;
         flex-wrap: wrap;
         margin-top: 250px;
-        
+
     }
 
 
